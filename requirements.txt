@@ -1,0 +1,4 @@
+zipline-reloaded
+matplotlib
+numpy<2
+pyfolio-reloaded
